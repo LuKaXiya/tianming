@@ -2,11 +2,6 @@
 
 网游小说，字契失落叶风格。
 
-## 说明
-
-- 第一章：自己写的版本（按失落叶风格总结14条写出）
-- InkOS版本：目录 `novel-writing/`，由 InkOS agent 系统生成
-
 ## 风格来源
 
 失落叶《斩龙》读后分析，核心要点：
@@ -21,4 +16,4 @@
 
 ## 写作规范
 
-见 `memory/shiluoye-style.md`
+见 workspace memory/shiluoye-style.md

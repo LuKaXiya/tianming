@@ -1,0 +1,49 @@
+{
+  "hooks": [
+    {
+      "hookId": "HK_001",
+      "startChapter": 1,
+      "type": "冲突伏笔",
+      "status": "open",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "后续多章节",
+      "notes": "与主角积怨已深"
+    },
+    {
+      "hookId": "HK_002",
+      "startChapter": 1,
+      "type": "社交伏笔",
+      "status": "open",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "第4章左右",
+      "notes": "可能是单纯玩家，也可能是托"
+    },
+    {
+      "hookId": "HK_003",
+      "startChapter": 1,
+      "type": "日常伏笔",
+      "status": "open",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "中期",
+      "notes": "老张对主角的态度待观察"
+    },
+    {
+      "hookId": "HK_004",
+      "startChapter": 1,
+      "type": "装备伏笔",
+      "status": "open",
+      "lastAdvancedChapter": 31,
+      "expectedPayoff": "待观察",
+      "notes": "她是什么背景？"
+    },
+    {
+      "hookId": "HK_005",
+      "startChapter": 1,
+      "type": "信息边界",
+      "status": "open",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "待观察",
+      "notes": "真萌新还是装傻？"
+    }
+  ]
+}

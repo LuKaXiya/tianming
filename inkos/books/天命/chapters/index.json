@@ -1,0 +1,67 @@
+[
+  {
+    "number": 1,
+    "title": "第一章 绝境",
+    "status": "ready-for-review",
+    "wordCount": 2459,
+    "createdAt": "2026-04-02T11:17:46.407Z",
+    "updatedAt": "2026-04-02T11:17:46.407Z",
+    "auditIssues": [
+      "[warning] 配角老周和夜听风雨缺乏个性化特征，仅作为工具人衬托主角的孤独感和困境。",
+      "[info] 检测到3句连续以相同开头的句子，呈现列表式AI生成结构"
+    ],
+    "lengthWarnings": [
+      "第1章经过一次字数归一化后仍超出硬区间（2546-4454，实际 2459）。"
+    ],
+    "lengthTelemetry": {
+      "target": 3500,
+      "softMin": 3023,
+      "softMax": 3977,
+      "hardMin": 2546,
+      "hardMax": 4454,
+      "countingMode": "zh_chars",
+      "writerCount": 5029,
+      "postWriterNormalizeCount": 4169,
+      "postReviseCount": 2712,
+      "finalCount": 2459,
+      "normalizeApplied": true,
+      "lengthWarning": true
+    },
+    "tokenUsage": {
+      "promptTokens": 0,
+      "completionTokens": 0,
+      "totalTokens": 0
+    }
+  },
+  {
+    "number": 1,
+    "title": "第1章 全息时代的搬砖人",
+    "status": "ready-for-review",
+    "wordCount": 3616,
+    "createdAt": "2026-04-02T11:19:21.535Z",
+    "updatedAt": "2026-04-02T11:19:21.535Z",
+    "auditIssues": [
+      "[warning] 本章约2400字，AI标记词出现1次（「咯噔」属于轻微标记），密度较低但需注意。在后续章节中应持续监控「猛地」「竟然」「忽然」「宛如」「不禁」「仿佛」等高频词。"
+    ],
+    "lengthWarnings": [],
+    "lengthTelemetry": {
+      "target": 3500,
+      "softMin": 3023,
+      "softMax": 3977,
+      "hardMin": 2546,
+      "hardMax": 4454,
+      "countingMode": "zh_chars",
+      "writerCount": 3621,
+      "postWriterNormalizeCount": 3617,
+      "postReviseCount": 0,
+      "finalCount": 3616,
+      "normalizeApplied": false,
+      "lengthWarning": false
+    },
+    "tokenUsage": {
+      "promptTokens": 0,
+      "completionTokens": 0,
+      "totalTokens": 0
+    }
+  }
+]

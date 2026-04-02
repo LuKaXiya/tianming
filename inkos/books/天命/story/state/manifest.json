@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 2,
+  "language": "zh",
+  "lastAppliedChapter": 31,
+  "projectionVersion": 1,
+  "migrationWarnings": [
+    "H01:status normalized from \"已埋设\" to \"open\"",
+    "H02:status normalized from \"已埋设\" to \"open\"",
+    "H03:status normalized from \"已埋设\" to \"open\"",
+    "H04:status normalized from \"已埋设\" to \"open\"",
+    "H05:status normalized from \"已埋设\" to \"open\"",
+    "HK_001:status normalized from \"埋设\" to \"open\"",
+    "HK_001:lastAdvancedChapter normalized from \"傲世天下因截胡紫装记仇，派人蹲守幽暗森林入口\" to 0",
+    "HK_002:status normalized from \"刚建立\" to \"open\"",
+    "HK_002:lastAdvancedChapter normalized from \"暖洋洋邀请主角周末见面请吃饭，地点江城\" to 0",
+    "HK_003:status normalized from \"埋设\" to \"open\"",
+    "HK_003:lastAdvancedChapter normalized from \"老张的游戏舱有电流刺痛问题，从不使用\" to 0",
+    "HK_004:status normalized from \"暗示\" to \"open\"",
+    "HK_005:status normalized from \"建立\" to \"open\"",
+    "HK_005:lastAdvancedChapter normalized from \"暖洋洋问\"傲世天下是什么\"，显得像萌新\" to 0"
+  ]
+}

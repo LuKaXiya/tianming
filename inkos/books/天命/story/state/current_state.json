@@ -1,0 +1,53 @@
+{
+  "chapter": 1,
+  "facts": [
+    {
+      "subject": "protagonist",
+      "predicate": "当前位置",
+      "object": "出租屋→《斩龙》游戏·霜寒阁领地→幽暗森林→西南刷新点",
+      "validFromChapter": 1,
+      "validUntilChapter": null,
+      "sourceChapter": 1
+    },
+    {
+      "subject": "protagonist",
+      "predicate": "主角状态",
+      "object": "穷困（欠花呗3872.5元）、在线搬砖中",
+      "validFromChapter": 1,
+      "validUntilChapter": null,
+      "sourceChapter": 1
+    },
+    {
+      "subject": "protagonist",
+      "predicate": "当前目标",
+      "object": "三天内凑够钱还花呗；三天后蹭暖洋洋的饭",
+      "validFromChapter": 1,
+      "validUntilChapter": null,
+      "sourceChapter": 1
+    },
+    {
+      "subject": "protagonist",
+      "predicate": "当前限制",
+      "object": "没钱吃饭（三天没吃肉）、傲世天下行会记仇蹲守",
+      "validFromChapter": 1,
+      "validUntilChapter": null,
+      "sourceChapter": 1
+    },
+    {
+      "subject": "protagonist",
+      "predicate": "当前敌我",
+      "object": "敌：傲世天下（傲世狂刀等人）；友：暗夜随风、暖洋洋（潜在）",
+      "validFromChapter": 1,
+      "validUntilChapter": null,
+      "sourceChapter": 1
+    },
+    {
+      "subject": "protagonist",
+      "predicate": "当前冲突",
+      "object": "生存危机（没钱）vs 游戏搬砖（赚生活费）",
+      "validFromChapter": 1,
+      "validUntilChapter": null,
+      "sourceChapter": 1
+    }
+  ]
+}
